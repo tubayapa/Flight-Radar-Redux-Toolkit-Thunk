@@ -15,8 +15,6 @@ export const getFlights = createAsyncThunk("flights/getFlights", async () => {
     lng: item[3],
   }));
 
-  console.log("deneme", formatted);
-
   // 3- determine as a action payload
   return formatted;
 });
