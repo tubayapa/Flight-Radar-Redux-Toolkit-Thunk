@@ -31,7 +31,5 @@ Flight Radar App is a web application built using React and Redux, designed to p
 2. Install dependencies using `npm install`.
 3. Run the application with `npm start`.
 
-## Contributors
 
-- [Your Name](link to your GitHub profile)
 
